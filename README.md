@@ -71,3 +71,6 @@ The width and precision fields can be provided as integers beginning with a non-
 2. `_printf("%#x\n", 478);` produces `0x1de`.
 3. `_printf("%R\n", "foobar");` produces `sbbone`.
 4. `_printf("%r\n", "foo")` produces `oof`.
+Author: Mohammed Shalaan
+Collaborator: Augustine Baah Forson
+
